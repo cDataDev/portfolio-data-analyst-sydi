@@ -114,7 +114,7 @@ Ce portfolio est accompagné de :
 
 ## 📬 Contact
 
-- **LinkedIn :** [Ton lien LinkedIn ici]  
-- **Email :** [Ton email ici]  
+- **LinkedIn :** [(https://www.linkedin.com/in/sydi-coulibaly/)]  
+- **Email :** [scdatadev@outlook.fr]  
 
 N’hésite pas à me contacter pour des projets de **reporting**, **automatisation** ou **conception de dashboards décisionnels**.
