@@ -1,6 +1,6 @@
 # 🎯 Portfolio Data Analyst — Sydi Coulibaly
 
-Je suis **Data Analyst & Chef de projet data**, orienté **innovation**, **pilotage de projets** et **visualisation décisionnelle**.  
+Je suis **Data Analyst**, orienté **innovation**, **pilotage de projets** et **visualisation décisionnelle**.  
 Ce portfolio regroupe mes projets en **Power BI**, **SQL**, **Python** et **automatisation de reporting**.
 
 ---
